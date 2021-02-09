@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 class Habit extends Component {
     handleIncrement = () => {
@@ -42,4 +42,4 @@ class Habit extends Component {
     }
 }
 
-export default Habit
+export default Habit;
